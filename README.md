@@ -1,2 +1,2 @@
-# global-balanceof-payments
-Plot balance of payments by key geographies
+# Global Balance Of Payments: Visualize balance of payments by key geographies
+
